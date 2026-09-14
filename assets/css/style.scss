@@ -1,0 +1,92 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ---------- Main colors ---------- */
+
+:root {
+  --charlotte-green: #005035;
+  --charlotte-green-light: #00703C;
+  --dark-text: #24292f;
+  --muted-text: #606770;
+  --light-gray: #f6f8fa;
+}
+
+
+/* ---------- Overall page ---------- */
+
+body {
+  color: var(--dark-text);
+  line-height: 1.6;
+}
+
+
+/* ---------- Headings ---------- */
+
+h1,
+h2,
+h3 {
+  color: var(--charlotte-green);
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 6px;
+  margin-top: 32px;
+}
+
+
+/* ---------- Links ---------- */
+
+a {
+  color: var(--charlotte-green-light);
+  font-weight: 500;
+}
+
+a:hover {
+  color: var(--charlotte-green);
+  text-decoration: underline;
+}
+
+
+/* ---------- Sidebar ---------- */
+
+header h1 a {
+  color: var(--charlotte-green);
+}
+
+header p {
+  color: var(--muted-text);
+}
+
+
+/* ---------- Project content ---------- */
+
+strong {
+  color: var(--charlotte-green);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #e5e7eb;
+  margin: 30px 0;
+}
+
+
+/* ---------- Lists ---------- */
+
+li {
+  margin-bottom: 5px;
+}
+
+
+/* ---------- Portfolio content ---------- */
+
+section {
+  max-width: 700px;
+}
