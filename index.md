@@ -9,6 +9,20 @@ I am a Data Science student at UNC Charlotte with a strong interest in math, pro
 
 I also believe data science comes with a responsibility to communicate findings honestly and recognize the limitations of data. As I continue developing my skills in Python, statistical analysis, data visualization, and working with APIs, I hope to apply them to meaningful projects while continuing to grow as a data scientist.
 
+## Skills
+
+- Python
+- Pandas
+- Matplotlib
+- SAS
+- Jupyter Notebook
+- VS Code
+- Git/GitHub
+- REST APIs / JSON
+- Data Cleaning
+- Exploratory Data Analysis
+- Statistical Analysis
+
 
 ## Projects
 
