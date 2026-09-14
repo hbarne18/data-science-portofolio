@@ -1,8 +1,7 @@
 # Harrison Barnes
 Data Science Student | UNC Charlotte
 
-[View My Resume](Harrison_Barnes_Resume_.docx.pdf) |
-[LinkedIn](https://www.linkedin.com/in/harrison-barnes-618443327/) |
+[View My Resume](Harrison_Barnes_Resume_.docx.pdf) |[LinkedIn](www.linkedin.com/in/harrison-barnes-618443327) 
 
 ## About Me
 I am a Data Science student at UNC Charlotte with a strong interest in math, problem-solving, and using data to better understand real-world questions. I am especially interested in sports analytics and enjoy exploring how data can help explain player performance, team success, and decision-making in basketball and football.
