@@ -1,7 +1,8 @@
 # Harrison Barnes
 Data Science Student | UNC Charlotte
 
-[LinkedIn](YOUR-LINKEDIN-URL) | [Resume](resume.pdf)
+[View My Resume](Harrison_Barnes_Resume_.docx.pdf) |
+[LinkedIn](https://www.linkedin.com/in/harrison-barnes-618443327/) |
 
 ## About Me
 I decided to study data science because I have always had a love for math, science, and problem-solving. Data science stood out to me because it combines these interests while also giving me the opportunity to work with real-world issues.
