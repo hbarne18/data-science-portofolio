@@ -38,6 +38,7 @@ I analyzed defensive measures including points allowed, total yards allowed, rus
 - Winning teams allowed approximately 38.33% fewer rushing yards.
 - Winning teams allowed approximately 10.35% fewer passing yards.
 
+[View Project Code and Analysis](https://github.com/hbarne18/data-science-portofolio/tree/main/cfb-defense-project)
 **Tools Used:** Python, Pandas, Matplotlib, Jupyter Notebook, College Football Data API
 
 
@@ -63,7 +64,7 @@ and compared logistic regression and decision tree classification models.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-[View Project Code and Analysis](stress-prediction-project/)
+[View Project Code and Analysis](https://github.com/hbarne18/data-science-portofolio/tree/main/stress-prediction-project)
 
 [View Full Project](./cfb-defense-project/) | [View Analysis Notebook](./cfb-defense-project/analysis.ipynb)
 
